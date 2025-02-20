@@ -4,3 +4,12 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     box-sizing: border-box;
 }
+body{
+    background: #39297b;
+    color: white;
+}
+h1{
+    text-align: center;
+    margin: 100px auto 50px;
+    font-weight: 600;
+}
